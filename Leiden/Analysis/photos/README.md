@@ -1,5 +1,6 @@
 ## ECG
 The ECG locations can be seen here:
+
 ![Arm](ECG_arm.png)
 ![Leg](ECG_legs.png)
 
