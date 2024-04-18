@@ -9,13 +9,13 @@ A polynomial function was fitted to the noise profile to estimate the noise leve
 All in-vivo data acquired can be found in the `data` folder.  The locations of the ECG are highlighted in the `photos` folder, together with few close-ups of the grounding.
 
 ## Results
-The maximum fitted noise in different conditions in the volunteers is in the `Noise_measurement` table.\
+The maximum fitted noise in different conditions in the volunteers is in the `Noise_measurement` table.
 
 As example, in one volunteer, using the solenoid coil, we found:
 
 ![Solenoid](noiseFit_solenoid.png)
 
-It is immediately evident that with 4 ECG, we are close to the thermal noise floor.\
+It is immediately evident that with 4 ECG, we are close to the thermal noise floor.
 
 Effective noise reduction has been observed also using the saddle/solenoid coil:
 
