@@ -3,7 +3,7 @@
 ## Methods
 72 mT Halbach system with MaRCoS as the control system is used. Wrist acquisitions are obtained with a single solenoidal radio frequency coil used for both transmission and reception. Different ECG positions on the volunteer are studied. In each situation, noise scans are acquired from which the rms value of each acquisition is calculated in order to compare it with the expected Johnson limit (see equation below). In addition, we compare the results with the noise present when the volunteer is covered by a faraday cloth and without any grounding.
 
-\begin{equation} V_{Johnson} = \sqrt{2 \times 50 \times \text{temp} \times \text{bw} \times 1.38e-23} \times 10^{\left( \frac{lnaGain}{20} \right)} \times 10^{6} \, \mu V \end{equation}
+![JohnsonEq](JohnsonEq.png)
 
 ## Data
 All in-vivo data acquired can be found in the `data` folder.
