@@ -1,5 +1,6 @@
 # Subject-Grounding
-*Description: repository containing noise data and pipeline analysis for subject grounding, for the ISMRM Reproducibility Challenge 2024.*
+*Description: repository containing noise data and pipeline analysis for subject grounding, for the ISMRM Reproducibility Challenge 2024.*\
+Name of the team: Common Ground Finders, Number of abstract to be replicated: 8200.\
 EMI reduction is essential to utilize low-field point-of-care MRI devices in different environments with different noise conditions. Subject grounding has the potential to reduce EMI and stabilize noise levels. Therefore, it is crucial to replicate the study and investigate whether the EMI reduction can be reproduced for a different body part, environment, and noise conditions.
 
 
