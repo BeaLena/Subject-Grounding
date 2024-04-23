@@ -1,6 +1,5 @@
 # Subject-Grounding
-*Description: repository containing noise data and pipeline analysis for subject grounding, for the ISMRM Reproducibility Challenge 2024.*\
-*Name of the team: **Common Ground Finders**, Number of abstract to be replicated: **8200**.*\
+*Description: repository containing noise data and pipeline analysis for subject grounding*.\
 Reducing electromagnetic interference (EMI) is essential in order to utilise low-field point-of-care magnetic resonance imaging (MRI) devices in a variety of environments and under different noise conditions. A study conducted in Leiden, the Netherlands, demonstrated that subject grounding has the potential to minimize EMI and stabilise noise levels for low-field imaging (ISMRM 2024 abstract 8200 - additional data included in the Leiden folder). Consequently, it is crucial to replicate the aforementioned study and ascertain whether the EMI reduction can be achieved for a different body part, environment, and noise conditions. The team in Valencia, Spain, equipped with a low-field scanner analogous to the one in Leiden, has taken up this challenge and their results are included in this repository.
 
 ## Leiden experiments
@@ -12,3 +11,7 @@ Furthermore, the replicators use a conductive cloth as their reference method to
 
 In each folder, the data, analysis and results of each site can be found.
 
+## Literature 
+These data and the analysis have been used for:
+- ISMRM Reproducibility Challenge 2024.*Name of the team: **Common Ground Finders**, Number of abstract to be replicated: **8200**.*\
+- ESMRMB 2024
