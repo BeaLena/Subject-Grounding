@@ -13,5 +13,5 @@ In each folder, the data, analysis and results of each site can be found.
 
 ## Literature 
 These data and the analysis have been used for:
-- ISMRM Reproducibility Challenge 2024.*Name of the team: **Common Ground Finders**, Number of abstract to be replicated: **8200**.*\
+- ISMRM Reproducibility Challenge 2024. *Name of the team: **Common Ground Finders**, Number of abstract to be replicated: **8200**.*
 - ESMRMB 2024
